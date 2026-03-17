@@ -1,8 +1,8 @@
 {
-  "name": "cat",
+  "name": "react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Nikitha888.github.io/cat",
+  "homepage": "http://Nikitha888.github.io/react-app",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
